@@ -20,7 +20,9 @@
   - Go to the `Development Options` tab
   - Click the `Add` button and add `[callibrity-robocode]/target/classes` to the list of paths
 
-You should now be able to create new bots in `[callibrity-robocode]/src/main/java/robots/[whatever]`, and after running `./build.sh` you can add those bots to a battle to test. Robots should be in the `robots` package, but you can create sub-packages for your bots (i.e. `robots.callibrityBot`).
+You should now be able to create new bots in `[callibrity-robocode]/src/main/java/robots/[whatever]`, and after running `./build.sh` you can add those bots to a battle (using `Battle -> New` in Robocode). 
+
+Robots should be in the `robots` package, but you can create sub-packages for your bots (i.e. `robots.callibrityBot`). (This is a requirement of the Maven build.)
 
 There are many sample bots available, and the Robocode Wiki has a lot of other information about the types of bots you can create and how to code them.
 
@@ -57,6 +59,8 @@ https://github.com/fernandrone/robocode-maven
 The original README.md file is below. You can try to get it working with the linked Docker container, but I couldn't get it working on MacOS. If you get it working, please share with the rest of us!
 
 ---
+
+The rest of the README is from the original repo that I copied.
 
 # Robocode-maven
 
