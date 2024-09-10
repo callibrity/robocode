@@ -4,17 +4,18 @@
 
 1. Fork this repo (or clone it and create a branch)
 2. Install Java v17 (may have issues with a newer version of Java)
-3. Run the Robocode Setup jar:
+3. Download the Robocode Setup JAR from [sourceforge.net/projects/robocode/](https://sourceforge.net/projects/robocode/files/robocode/1.9.5.2/robocode-1.9.5.2-setup.jar/download)
+4. Run the Robocode Setup jar:
 `java -jar ./robocode-1.9.5.2-setup.jar`
-4. Install Maven:
+5. Install Maven:
   - MacOS: `brew install maven`
   - Linux: Use your package manager. i.e. `apt install maven`
   - Not sure about Windows
-5. Run Robocode:
+6. Run Robocode:
 `~/robocode/robocode.sh` (or equivalent in other OSes)
-6. Run `./build.sh`
+7. Run `./build.sh`
   - Should create `target/*`
-7. In the Robocode menus:
+8. In the Robocode menus:
   - Select `Options -> Preferences`
   - Go to the `Development Options` tab
   - Click the `Add` button and add `[callibrity-robocode]/target/classes` to the list of paths
