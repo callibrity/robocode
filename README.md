@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Fork this repo
+1. Fork this repo (or clone it and create a branch)
 2. Install Java v17 (may have issues with a newer version of Java)
 3. Run the Robocode Setup jar:
 `java -jar ./robocode-1.9.5.2-setup.jar`
