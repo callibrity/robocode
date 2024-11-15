@@ -4,9 +4,9 @@
 
 1. Fork this repo (or clone it and create a branch)
 2. Install Java v17 (may have issues with a newer version of Java)
-3. Download the Robocode Setup JAR from [sourceforge.net/projects/robocode/](https://sourceforge.net/projects/robocode/files/robocode/1.9.5.2/robocode-1.9.5.2-setup.jar/download)
+3. Download the Robocode Setup JAR from [sourceforge.net/projects/robocode/](https://sourceforge.net/projects/robocode/files/robocode/1.9.5.2/robocode-1.9.5.4-setup.jar/download)
 4. Run the Robocode Setup jar:
-`java -jar ./robocode-1.9.5.2-setup.jar`
+`java -jar ./robocode-1.9.5.4-setup.jar`
 5. Install Maven:
   - MacOS: `brew install maven`
   - Linux: Use your package manager. i.e. `apt install maven`
