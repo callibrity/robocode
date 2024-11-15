@@ -38,6 +38,10 @@ The [RoboWiki](https://robowiki.net/wiki/Main_Page) provides all the information
 Robots are written in Java, but the docs mention the ability to write bots in .NET as well. Feel free to try that if you'd like, but if additional setup is needed to execute .NET bots, please give me a heads-up so I can try to get it working before the Callibrity Battles.
 
 ## Competition Rules
+- All bots should be your own creation, from the ground up! DO NOT USE SOMEONE ELSE'S BOT AS A STARTER BOT!
+  - You CAN use the SAMPLE bots as starter bots
+  - You CAN use strategies found in tutorials, the RoboWiki, and other bots, but don't pull code from other bots
+  - Don't use AI to generate your bot's code
 - You may enter as many bots as you want. All of your bots should be in the same package.
   - THIS IS NOT A TEAM BATTLE. Your bots should be independent bots, and not coded to work together in any way. You bot should not have any knowledge of your other bots. (i.e., you can't code your bot to only fire at bots that aren't yours.)
   - If using this maven script, it says to put your robots in the `robots` package. You can create `robots.myBotPackage` for your bots.
