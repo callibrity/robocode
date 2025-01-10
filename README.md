@@ -45,7 +45,7 @@ Robots are written in Java, but the docs mention the ability to write bots in .N
 - You may enter as many bots as you want. All of your bots should be in the same package.
   - THIS IS NOT A TEAM BATTLE. Your bots should be independent bots, and not coded to work together in any way. You bot should not have any knowledge of your other bots. (i.e., you can't code your bot to only fire at bots that aren't yours.)
   - If using this maven script, it says to put your robots in the `robots` package. You can create `robots.myBotPackage` for your bots.
-  - When packaging your bot, it is recommended that you include the source code. This allows others to learn and improve.
+  - When packaging your bot, you must include the source code. This allows others to learn and improve, and allows for enforcement of the rules.
   - The bots will be shared with everyone on the Slack channel after each battle to keep up the competition.
 - All bots will be added to a 1000x1000 battlefield
   - Battlefield Size may be increased if we end up with lots of bots
@@ -65,7 +65,7 @@ The original README.md file is below. You can try to get it working with the lin
 
 ---
 
-The rest of the README is from the original repo that I copied.
+# The rest of the README is from the original repo.
 
 # Robocode-maven
 
